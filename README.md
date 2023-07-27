@@ -4,6 +4,9 @@
 
 <img width="564" alt="image" src="https://github.com/vishaka-b/peachparty-p3/assets/124462334/8889934b-3521-43bc-9aa2-2859bd2f49f0">
 
+<h3> Board 1: </h3>
+
+<img width="563" alt="image" src="https://github.com/vishaka-b/peachparty-p3/assets/124462334/daf0be8c-8140-4642-88f0-713ff8d265cc">
 
 <h3> Board 2: </h3>
 
