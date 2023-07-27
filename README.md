@@ -1,5 +1,9 @@
 # Peach Party Game - Mario Party Clone
 
+<h3> Game Summary: </h3>
+Peach Party is a two player game resembling a traditional board game. The two avatars, Peach and Yoshi, move along the board collecting coins and stars while avoiding the Bowsers and Boos on the screen. There are nine boards to play on, each with a different layout.
+
+
 <h3> Starting Screen: </h3>
 
 <img width="564" alt="image" src="https://github.com/vishaka-b/peachparty-p3/assets/124462334/8889934b-3521-43bc-9aa2-2859bd2f49f0">
